@@ -2,6 +2,7 @@
 
 *Building intelligent systems that bridge language, vision, and automation*
 
+![AI Portfolio Banner](generated_image.png)
 ---
 
 ## 🚀 About Me
