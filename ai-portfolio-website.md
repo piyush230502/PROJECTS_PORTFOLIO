@@ -183,7 +183,7 @@ Automated resume parsing and ranking system with semantic matching, skill extrac
 ## 🌐 Connect With Me
 
 **📧 Email:** Piyush230502@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/piyush-chaubey]((https://www.linkedin.com/in/piyush-chaubey-5793a0285/))  
+**💼 LinkedIn:** [linkedin.com/piyush-chaubey]((https://www.linkedin.com/in/piyush-chaubey-5793a0285/))  
 **👨‍💻 GitHub:** [github.com/piyush230502](https://github.com/piyush230502)  
 **📱 Phone:** +91-9868655628  
 
@@ -202,4 +202,4 @@ Automated resume parsing and ranking system with semantic matching, skill extrac
 
 ---
 
-**🔍 Looking for:** AI Engineer • ML Engineer • GenAI Engineer • LLM Engineer positions where I can leverage my expertise in building production-ready AI systems that create tangible business value.
+**🔍 Looking for:** AI Engineer • ML Engineer • GenAI Engineer • LLM Engineer * Data Scientist * Computer Vision positions where I can leverage my expertise in building production-ready AI systems that create tangible business value.
