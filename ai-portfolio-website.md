@@ -8,7 +8,7 @@
 
 Energetic AI/ML professional specializing in **LLM-powered agent workflows**, **vector search**, and **end-to-end ML systems**. I design and deploy production-ready AI solutions using state-of-the-art large language models and agentic frameworks (LangChain, CrewAI, AutoGen). 
 
-Currently pursuing B.Tech in Computer Science Engineering (7.5 CGPA) | 2 Years Industry Experience | 6+ AI Production Projects
+B.Tech in Computer Science Engineering (7.25 CGPA) | 6 months Years Industry Experience | 6+ AI Production Projects
 
 **🎯 Core Expertise:** Agentic AI • Natural Language Processing • Computer Vision • MLOps • Prompt Engineering • Vector Databases
 
@@ -23,7 +23,7 @@ Transform plain English questions into SQL queries and visualizations, reducing 
 
 **🔧 Tech Stack:** Python, Streamlit, OpenAI GPT-4o, DuckDB, Pandas, Matplotlib, Plotly, Agno Agent  
 **🎯 Impact:** Democratizes data analysis for non-technical users  
-**🔗 Links:** [Live Demo](#) | [GitHub](#) | [Technical Deep Dive](#)
+**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/ai_data_analysis_agent) | [Technical Deep Dive](#)
 
 **Key Features:**
 - Intelligent NL-to-SQL translation with context awareness
@@ -41,7 +41,7 @@ End-to-end hiring assistant that streamlines recruitment processes through intel
 
 **🔧 Tech Stack:** Python, NLP, HuggingFace Transformers, Vector Search, Flask, PostgreSQL  
 **🎯 Impact:** Reduces screening time by 60%, improves match quality by 45%  
-**🔗 Links:** [Live Demo](#) | [GitHub](#) | [Architecture](#)
+**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/talentscout_hiring_assistant) | [Architecture](#)
 
 **Key Features:**
 - Resume parsing and skill extraction using NER models
@@ -59,7 +59,7 @@ Orchestrated agent workflow for real-time object detection, classification, and 
 
 **🔧 Tech Stack:** Python, YOLOv8, OpenCV, LangChain, CrewAI, FastAPI, Redis  
 **🎯 Impact:** 40% faster inference than traditional pipelines, 95% accuracy  
-**🔗 Links:** [Live Demo](#) | [GitHub](#) | [Agent Architecture](#)
+**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/Agentic_ObjectDetectionPipeline) | [Agent Architecture](#)
 
 **Key Features:**
 - Multi-agent coordination for complex visual tasks
@@ -77,7 +77,7 @@ Multi-agent system that automates business workflows through intelligent task de
 
 **🔧 Tech Stack:** CrewAI, LangChain, OpenAI API, MongoDB, FastAPI, Docker  
 **🎯 Impact:** 80% reduction in manual task processing time  
-**🔗 Links:** [Live Demo](#) | [GitHub](#) | [Agent Workflows](#)
+**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/CREWAI_SERVICE_AGENCY) | [Agent Workflows](#)
 
 **Key Features:**
 - Intelligent task decomposition and agent assignment
@@ -95,7 +95,7 @@ AI-powered system that extracts structured data from insurance documents and aut
 
 **🔧 Tech Stack:** Python, Tesseract OCR, spaCy, Transformers, PDFPlumber, FastAPI  
 **🎯 Impact:** 90% reduction in manual form processing, 99.2% accuracy  
-**🔗 Links:** [Live Demo](#) | [GitHub](#) | [Technical Details](#)
+**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/Automated_Insurance_Template_Filler) | [Technical Details](#)
 
 **Key Features:**
 - Multi-format document ingestion (PDF, images, scanned docs)
@@ -182,8 +182,8 @@ Automated resume parsing and ranking system with semantic matching, skill extrac
 ## 🌐 Connect With Me
 
 **📧 Email:** Piyush230502@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/piyush-chaubey](#)  
-**👨‍💻 GitHub:** [github.com/piyush230502](#)  
+**💼 LinkedIn:** [linkedin.com/in/piyush-chaubey]((https://www.linkedin.com/in/piyush-chaubey-5793a0285/))  
+**👨‍💻 GitHub:** [github.com/piyush230502](https://github.com/piyush230502)  
 **📱 Phone:** +91-9868655628  
 
 ---
