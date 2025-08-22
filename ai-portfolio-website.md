@@ -9,7 +9,7 @@
 
 Energetic AI/ML professional specializing in **LLM-powered agent workflows**, **vector search**, and **end-to-end ML systems**. I design and deploy production-ready AI solutions using state-of-the-art large language models and agentic frameworks (LangChain, CrewAI, AutoGen). 
 
-B.Tech in Computer Science Engineering (7.25 CGPA) | 6 months Years Industry Experience | 6+ AI Production Projects
+B.Tech in Computer Science Engineering (7.25 CGPA) | Fresher | 6 months 0 Years Industry Experience | 6+ AI Production Projects
 
 **🎯 Core Expertise:** Agentic AI • Natural Language Processing • Computer Vision • MLOps • Prompt Engineering • Vector Databases
 
