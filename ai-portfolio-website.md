@@ -23,7 +23,7 @@ Transform plain English questions into SQL queries and visualizations, reducing 
 
 **🔧 Tech Stack:** Python, Streamlit, OpenAI GPT-4o, DuckDB, Pandas, Matplotlib, Plotly, Agno Agent  
 **🎯 Impact:** Democratizes data analysis for non-technical users  
-**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/ai_data_analysis_agent) | [Technical Deep Dive](#)
+**🔗 Links:** [Live Demo](#) | [GitHub](https://github.com/piyush230502/PROJECTS_PORTFOLIO/blob/main/datawhisperer-deepdive.md) | [Technical Deep Dive](#)
 
 **Key Features:**
 - Intelligent NL-to-SQL translation with context awareness
